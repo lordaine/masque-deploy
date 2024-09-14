@@ -2,6 +2,5 @@
 <item>
   <version>0.9.0.0</version>
   <url>https://github.com/lordaine/masque-deploy/releases/download/v0.9.0/Masque.zip</url>
-  <changelog>https://github.com/lordaine/masque-deploy/releases/tag/v0.9.0</changelog>
   <mandatory>false</mandatory>
 </item>
