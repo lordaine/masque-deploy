@@ -2,5 +2,5 @@
 <item>
   <version>0.9.0.11</version>
   <url>https://github.com/lordaine/masque-deploy/releases/download/v0.9.0.9/Masque-0.9.0.9-alpha-update.zip</url>
-  <mandatory>false</mandatory>
+  <mandatory>true</mandatory>
 </item>
